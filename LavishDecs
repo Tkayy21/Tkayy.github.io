@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decor Dreams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Decor Dreams</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#tips">Decor Tips</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Welcome to Decor Dreams</h2>
+            <p>Your go-to blog for home decor tips and inspiration. Explore our latest articles and get inspired to transform your living space.</p>
+        </section>
+        <aside>
+            <h3>Featured Tip</h3>
+            <p>Use mirrors to create the illusion of space in small rooms.</p>
+        </aside>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Decor Dreams is dedicated to bringing you the best in home decor ideas and DIY projects. Whether you're a novice or a seasoned decorator, we have something for everyone.</p>
+        </section>
+        <section id="tips">
+            <h2>Decor Tips</h2>
+            <article>
+                <h3>Tip 1: Choosing Colors</h3>
+                <p>Choosing the right color palette can make or break the decor of a room. Experiment with shades and tones to find the perfect match.</p>
+            </article>
+            <article>
+                <h3>Tip 2: Lighting</h3>
+                <p>Lighting plays a crucial role in setting the mood of a space. Consider different types of lighting, such as ambient, task, and accent lighting.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Decor Dreams. All rights reserved.</p>
+    </footer>
+</body>
+</html>
